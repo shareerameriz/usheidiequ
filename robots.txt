@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooravohae.s2gatev.com/sitemap.xml
